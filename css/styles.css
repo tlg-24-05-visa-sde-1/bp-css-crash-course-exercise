@@ -24,7 +24,7 @@ button [disabled] {
   cursor: not-allowed;
 }
 
-Use the Universal Selector to give all elements the following CSS Rule * {
+* {
   box-sizing: border-box;
 }
 
